@@ -5,3 +5,6 @@
 html{
     scrollbar-width: smooth;
 }
+body{
+    font-size: larger;
+}
